@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 
 # To Start app
 -npm install
+
 -npm run dev
