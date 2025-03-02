@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "218f",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "1ae6",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "b2e3",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "5ee4",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "f293",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "22e5",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "118b",
+      "username": "adm",
+      "password": "pa"
+    },
+    {
+      "id": "409e",
+      "username": "ad",
+      "password": "st"
+    }
+  ]
+}
